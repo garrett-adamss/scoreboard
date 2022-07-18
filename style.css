@@ -1,0 +1,36 @@
+body{
+    background-image: url(https://images.unsplash.com/photo-1522778119026-d647f0596c20?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80);
+    background-position: center;
+    background-size: cover;
+    min-height: 100vh;
+}
+
+.btn-red{
+    background-color: red;
+    opacity: 85%;
+    border-color: rgb(187, 11, 11);
+}
+.title-color{
+    color:rgb(255, 255, 255);
+    font-size: 13vh;
+    text-shadow: 0px 0px 2px rgb(40, 40, 40);
+}
+
+.score-color{
+    color:whitesmoke;
+    font-size: 25vh;
+}
+.card-border{
+    border: solid;
+    border-color: blue;
+    border-radius: 15px;
+}
+
+/* .card{
+    position: relative;
+    background-color: blue;
+    opacity: 25%;
+    border: solid;
+    border-color: aqua;
+    min-height: 55vh;
+    transform: translateY(-368px);} */
